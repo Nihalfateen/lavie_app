@@ -1,6 +1,8 @@
 # Lavie_app
 
 A new Flutter project.
+ODC(orange digital center) Hackathon 
+
 
 ## Getting Started
 
